@@ -1,0 +1,1 @@
+["Color", "Size", "Shape", "Fragrance", "Type", "Seasonality", "Lifespan", "Growth Habit", "Pollinator Preference", "Soil Type"]

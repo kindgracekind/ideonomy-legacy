@@ -1,0 +1,10 @@
+Cooperative Inversion
+ 
+Cooperative Inversion is a concept related to the Taxology of AI Alignment. 
+It involves both humans and machines working together to develop a shared understanding 
+of how AI technology should be used and regulated in order to ensure the safety of humans 
+and the ethical use of AI. It involves a mutual inversion of roles between humans and machines, 
+whereby machines are given the opportunity to provide input on the ethical implications of their use,
+ and humans are given the opportunity to learn from the machines’ insights. 
+ This approach emphasizes the importance of collaboration between humans and machines 
+ in order to develop a mutually beneficial understanding of AI technology and its implications.
